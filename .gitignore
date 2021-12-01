@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 code2vec/data/
+code2vec/java-large/
